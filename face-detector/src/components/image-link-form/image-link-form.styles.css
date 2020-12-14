@@ -1,0 +1,8 @@
+.form {
+  width: 700px;
+  background: linear-gradient(
+    to right,
+    #4ca2cd,
+    #67b26f
+  ); /* https://uigradients.com/ */
+}
